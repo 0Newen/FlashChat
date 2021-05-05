@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570949535794",
+    "project_id": "flash-chat-60dc3",
+    "storage_bucket": "flash-chat-60dc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570949535794:android:66a3f9ba4a958c130c542b",
+        "android_client_info": {
+          "package_name": "co.newen.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570949535794-ef0kgv2ek4c4uk4ik2oocj3qofsr8hb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMvDVKE6sP6d66bgbQnGCrJJXi1cB6O8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570949535794-ef0kgv2ek4c4uk4ik2oocj3qofsr8hb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
